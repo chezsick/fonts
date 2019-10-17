@@ -1,0 +1,5 @@
+{
+name:"fonts",
+description:"fonts from google fonts",
+install:"cp {apache,ofl,url}/*/*.ttf /usr/local/share/fonts"
+}
